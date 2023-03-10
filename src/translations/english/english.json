@@ -1,0 +1,41 @@
+{
+  "navbar":{
+    "home":"Home",
+    "skills":"Skills",
+    "projects":"Projects"
+  },
+  "header":{
+    "greating":"Hi 👋, I'm",
+    "description":"Electronic engineering, passionate about web development",
+    "button-cv":"Download CV",
+    "button-contactMe":"Contact Me"
+  },
+  "about-me":{
+    "title":"About me",
+    "description":"I enjoy working in a team and have been part of various projects as both a frontend and full-stack developer. I'm constantly researching new technologies and seeking out new challenges for professional growth and learning."
+  },
+  "skills":{
+    "title":"Skills",
+    "others":"Others"
+  },
+  "projects":{
+    "title":"Projects",
+    "list":[
+      {
+        "id": 1,
+        "nameProject": "UT Medical Center",
+        "url":"https://www.utmedicalcenter.org/",
+        "technologies": ["Drupal","Twig","TailwindCSS","Sass","Git"],
+        "summary":"The website features an attractive interface thanks to the implementation of layout components with TailwindCSS and Sass. The combination of these tools allowed for the creation of a responsive and elegant design, adapting to different device sizes."
+      },
+      {
+        "id": 2,
+        "nameProject": "Magma Engineering",
+        "url":"https://magma-preview.netlify.app/",
+        "technologies": ["ReactJS","Django","Sass","MariaDB","Git"],
+        "summary":"The platform is a comprehensive tool that provides exhaustive information about the research group, its members, and its initiatives. I worked closely with the developers to ensure the website meets their requirements and expectations."
+      }
+    ],
+    "button-text":"Visit website"
+  }
+}
